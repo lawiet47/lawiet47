@@ -7,5 +7,4 @@
 I am Rustam security engineer based in Spain
 
 
-[![badge]()](<script src="https://www.hackthebox.eu/badge/54246"></script>)
 ![rustamhtb](./images/rustamhtb.png)
